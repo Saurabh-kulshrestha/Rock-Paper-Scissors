@@ -1,7 +1,3 @@
-Here's your **README** for the **Stone Paper Scissors** game:  
-
----
-
 # 🪨📄✂️ Stone Paper Scissors  
 A Fun Python Game  
 
